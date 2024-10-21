@@ -42,4 +42,4 @@ Read the documentation for more details.
 
 Video
 ----------------
-Watch the video[here](https://drive.google.com/file/d/1pOlDvr-s62RWE-nEpb8x8_4vQZ2vJfeN/view?usp=sharing)
+Watch the video [here](https://drive.google.com/file/d/1pOlDvr-s62RWE-nEpb8x8_4vQZ2vJfeN/view?usp=sharing)
