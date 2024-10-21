@@ -1,0 +1,201 @@
+{
+    "Diseased": [
+            {
+                "image": "images/Diseased_1.nrrd",
+                "label": "labels/Diseased_1.nrrd"
+            },
+            {
+                "image": "images/Diseased_2.nrrd",
+                "label": "labels/Diseased_2.nrrd"
+            },            {
+                "image": "images/Diseased_3.nrrd",
+                "label": "labels/Diseased_3.nrrd"
+            },            {
+                "image": "images/Diseased_4.nrrd",
+                "label": "labels/Diseased_4.nrrd"
+            },            {
+                "image": "images/Diseased_5.nrrd",
+                "label": "labels/Diseased_5.nrrd"
+            },            {
+                "image": "images/Diseased_6.nrrd",
+                "label": "labels/Diseased_6.nrrd"
+            },            {
+                "image": "images/Diseased_7.nrrd",
+                "label": "labels/Diseased_7.nrrd"
+            },            {
+                "image": "images/Diseased_8.nrrd",
+                "label": "labels/Diseased_8.nrrd"
+            },            {
+                "image": "images/Diseased_9.nrrd",
+                "label": "labels/Diseased_9.nrrd"
+            },            {
+                "image": "images/Diseased_10.nrrd",
+                "label": "labels/Diseased_10.nrrd"
+            },            {
+                "image": "images/Diseased_11.nrrd",
+                "label": "labels/Diseased_11.nrrd"
+            },
+            {
+                "image": "images/Diseased_12.nrrd",
+                "label": "labels/Diseased_12.nrrd"
+            },
+            {
+                "image": "images/Diseased_13.nrrd",
+                "label": "labels/Diseased_13.nrrd"
+            },
+            {
+                "image": "images/Diseased_14.nrrd",
+                "label": "labels/Diseased_14.nrrd"
+            },
+            {
+                "image": "images/Diseased_15.nrrd",
+                "label": "labels/Diseased_15.nrrd"
+            },
+            {
+                "image": "images/Diseased_16.nrrd",
+                "label": "labels/Diseased_16.nrrd"
+            },
+            {
+                "image": "images/Diseased_17.nrrd",
+                "label": "labels/Diseased_17.nrrd"
+            },            {
+                "image": "images/Diseased_18.nrrd",
+                "label": "labels/Diseased_18.nrrd"
+            },            {
+                "image": "images/Diseased_19.nrrd",
+                "label": "labels/Diseased_19.nrrd"
+            },            {
+                "image": "images/Diseased_20.nrrd",
+                "label": "labels/Diseased_20.nrrd"
+            }
+ 
+      
+   
+   
+           
+            
+    ],
+            
+    "Normal": [
+        {
+            "image": "images/Normal_1.nrrd",
+            "label": "labels/Normal_1.nrrd"
+        },            {
+            "image": "images/Normal_2.nrrd",
+            "label": "labels/Normal_2.nrrd"
+        },            {
+            "image": "images/Normal_3.nrrd",
+            "label": "labels/Normal_3.nrrd"
+        },            {
+            "image": "images/Normal_4.nrrd",
+            "label": "labels/Normal_4.nrrd"
+        },            {
+            "image": "images/Normal_5.nrrd",
+            "label": "labels/Normal_5.nrrd"
+        },            {
+            "image": "images/Normal_6.nrrd",
+            "label": "labels/Normal_6.nrrd"
+        },            {
+            "image": "images/Normal_7.nrrd",
+            "label": "labels/Normal_7.nrrd"
+        },            {
+            "image": "images/Normal_8.nrrd",
+            "label": "labels/Normal_8.nrrd"
+        },            {
+            "image": "images/Normal_9.nrrd",
+            "label": "labels/Normal_9.nrrd"
+        },            {
+            "image": "images/Normal_10.nrrd",
+            "label": "labels/Normal_10.nrrd"
+        },
+        {
+            "image": "images/Normal_11.nrrd",
+            "label": "labels/Normal_11.nrrd"
+        },
+        {
+            "image": "images/Normal_12.nrrd",
+            "label": "labels/Normal_12.nrrd"
+        },
+        {
+            "image": "images/Normal_13.nrrd",
+            "label": "labels/Normal_13.nrrd"
+        },
+        {
+            "image": "images/Normal_14.nrrd",
+            "label": "labels/Normal_14.nrrd"
+        },
+        {
+            "image": "images/Normal_15.nrrd",
+            "label": "labels/Normal_15.nrrd"
+        },
+        {
+            "image": "images/Normal_16.nrrd",
+            "label": "labels/Normal_16.nrrd"
+        },
+          {
+            "image": "images/Normal_17.nrrd",
+            "label": "labels/Normal_17.nrrd"
+        },            {
+            "image": "images/Normal_18.nrrd",
+            "label": "labels/Normal_18.nrrd"
+        },            {
+            "image": "images/Normal_19.nrrd",
+            "label": "labels/Normal_19.nrrd"
+        },            {
+            "image": "images/Normal_20.nrrd",
+            "label": "labels/Normal_20.nrrd"
+        }
+    ],
+
+    "Test-Normal":[
+        {
+            "image": "testing/0.nrrd"
+        },            {
+            "image": "testing/1.nrrd"
+        },            {
+            "image": "testing/2.nrrd"
+        },            {
+            "image": "testing/3.nrrd"
+        },            {
+            "image": "testing/4.nrrd"
+        },            {
+            "image": "testing/5.nrrd"
+        },            {
+            "image": "testing/6.nrrd"
+        },            {
+            "image": "testing/7.nrrd"
+        },
+        {
+            "image": "testing/8.nrrd"
+        },            {
+            "image": "testing/9.nrrd"
+        }         
+
+    ],
+    
+    "Test-Diseased":[           {
+        "image": "testing/10.nrrd"
+    },            {
+        "image": "testing/11.nrrd"
+    },            {
+        "image": "testing/12.nrrd"
+    },            {
+        "image": "testing/13.nrrd"
+    },            {
+        "image": "testing/14.nrrd"
+    },            {
+        "image": "testing/15.nrrd"
+
+    },            {
+        "image": "testing/16.nrrd"
+    },            {
+        "image": "testing/17.nrrd"
+    },            {
+        "image": "testing/18.nrrd"
+    },            {
+        "image": "testing/19.nrrd"
+    }
+]
+    
+
+}

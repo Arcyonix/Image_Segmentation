@@ -1,0 +1,19 @@
+pip
+python=3.10
+nbconvert==7.14.2
+numpy==1.26.3
+pandoc==2.3
+scikit-learn==1.4.0
+tqdm==4.66.1
+matplotlib==3.8.2
+scikit-image==0.22.0
+notebook
+lightning
+wandb
+munch
+monai-weekly[tqdm,einops]
+SimpleITK
+install pynrrd
+torch
+torchvision
+torchaudio

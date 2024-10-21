@@ -1,0 +1,28 @@
+name: tdt4265_project
+dependencies:
+  - pip
+  - python=3.10
+  - pip:
+      - nbconvert==7.14.2
+      - numpy==1.26.3
+      - pandoc==2.3
+      - scikit-learn==1.4.0
+      - tqdm==4.66.1
+      - matplotlib==3.8.2
+      - scikit-image==0.22.0
+      - notebook
+      - lightning
+      - wandb
+      - munch
+      - monai-weekly[tqdm,einops]
+      - SimpleITK
+      - install pynrrd
+
+post_build:
+  - python -c "import matplotlib" || pip install -q matplotlib
+  - pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+  - run: |
+      git clone https://github.com/Project-MONAI/MONAI.git
+      cd MONAI/
+      pip install -r requirements-dev.txt
