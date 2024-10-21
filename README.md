@@ -39,3 +39,7 @@ Running the Code
 ----------------
 
 Read the documentation for more details.
+
+Video
+----------------
+https://drive.google.com/file/d/1pOlDvr-s62RWE-nEpb8x8_4vQZ2vJfeN/view?usp=sharing 
